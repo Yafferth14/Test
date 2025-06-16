@@ -1,5 +1,6 @@
 # Heroes
 
+* Spider Punk
 * Miles Morales
 * Superman
 * Batman
