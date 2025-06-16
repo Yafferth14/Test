@@ -1,5 +1,6 @@
 # Heroes
 
+* Pavitr Pravakr
 * Spider Punk
 * Miles Morales
 * Superman
