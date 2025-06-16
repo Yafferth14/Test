@@ -11,3 +11,6 @@
 * NilOjeda
 * Misho
 * Soul
+* Guanyar
+* Anas
+* Leto
