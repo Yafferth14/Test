@@ -1,5 +1,6 @@
 # Heroes
 
+* Miles Morales
 * Superman
 * Batman
 * Mujer Maravilla
